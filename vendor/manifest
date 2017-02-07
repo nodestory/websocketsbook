@@ -1,0 +1,13 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/gorilla/websocket",
+			"repository": "https://github.com/gorilla/websocket",
+			"vcs": "git",
+			"revision": "c36f2fe5c330f0ac404b616b96c438b8616b1aaf",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
