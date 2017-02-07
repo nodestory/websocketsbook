@@ -1,0 +1,9 @@
+{
+  "name": "websocket-ch2",
+  "description": "Chapter 2",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ws": "~0.4.27"
+  }
+}
